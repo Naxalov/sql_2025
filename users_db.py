@@ -18,6 +18,15 @@ users_data = [
     ("aliyev_uz", 25, "Tashkent"),
     ("shodiev_b", 30, "Samarkand"),
     ("murodov_n", 22, "Bukhara"),
+    ("abdullayev_r", 40, "Jizzakh"),
+    ("zaynabekova_m", 27, "Andijan"),
+    ("xudoyberdiyev_s", 32, "Fergana"),
+    ("zaynabekova_m", 27, "Andijan"),
+    ("Bobomurot_t",30,"Samarkand"),
+    ("abdulazizov_a",20,"Jizzakh"),
+    ("Akhtamov_a",20,"Bukhara"),
+    ("Shodmonov",28,"Surxondaryo"),
+    
     ("kamolova_s", 28, "Fergana"),
     ("rustamov_d", 35, "Khiva")
 ]
